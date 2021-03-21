@@ -1,17 +1,7 @@
 baseURL = "https://xiaoxuanworld.github.io/fiction/"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "逍遥的博客"
 theme = "ananke"
-
-[languages]
-  [languages.en]
-    title = "My blog"
-    weight = 1
-    contentDir = "content/en"
-  [languages.fr]
-    title = "Mon blogue"
-    weight = 2
-    contentDir = "content/fr"
 
 [sitemap]
   changefreq = "monthly"
@@ -21,9 +11,9 @@ theme = "ananke"
 [params]
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = ""
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
   github = ""

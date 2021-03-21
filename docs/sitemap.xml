@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://xiaoxuanworld.github.io/fiction/en/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://xiaoxuanworld.github.io/fiction/posts/</loc>
+    <lastmod>2021-03-21T21:34:21+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
   
-  <sitemap>
-    <loc>https://xiaoxuanworld.github.io/fiction/fr/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://xiaoxuanworld.github.io/fiction/posts/seek-the-ripple-bonding/</loc>
+    <lastmod>2021-03-21T21:34:21+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://xiaoxuanworld.github.io/fiction/</loc>
+    <lastmod>2021-03-21T21:34:21+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxuanworld.github.io/fiction/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxuanworld.github.io/fiction/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
