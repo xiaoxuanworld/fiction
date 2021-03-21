@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://xiaoxuanworld.github.io/fiction/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://xiaoxuanworld.github.io/fiction/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xiaoxuanworld.github.io/fiction/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xiaoxuanworld.github.io/fiction/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://xiaoxuanworld.github.io/fiction/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xiaoxuanworld.github.io/fiction/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xiaoxuanworld.github.io/fiction/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://xiaoxuanworld.github.io/fiction/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xiaoxuanworld.github.io/fiction/tags/"
+                />
+  </url>
+  
+</urlset>
